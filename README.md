@@ -8,7 +8,7 @@ Make sure you have everything ready to launch your web app
 - [x] Favicon
 - [x] SEO
 - [x] robots.txt
-- [x] DDoS protection
+- [x] DoS protection
 - [x] SSL/TLS
 - [x] HTTPS enabled and forced in .htaccess
 - [x] Error pages (404, 405, etc)
