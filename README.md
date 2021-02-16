@@ -8,7 +8,6 @@ Make sure you have everything ready to launch your web app
 - [x] Favicon
 - [x] SEO
 - [x] robots.txt
-- [x] DoS protection
 - [x] SSL/TLS
 - [x] HTTPS enabled and forced in .htaccess
 - [x] Error pages (404, 405, etc)
@@ -20,6 +19,7 @@ Make sure you have everything ready to launch your web app
 - [x] Test on mobile devices
 - [x] Add error handling and logging
 - [x] Add analytics ([Google Analytics](https://analytics.google.com/analytics/web/), [Matomo](https://matomo.org/))
+- [x] DoS protection
 
 - [x] Update dependencies
 - [x] Database updates
