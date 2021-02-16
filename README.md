@@ -1,4 +1,4 @@
-# web-checklist
+# Web app pre-launch checklist
 Make sure you have everything ready to launch your web app
 
 ## Checklist
@@ -24,11 +24,11 @@ Make sure you have everything ready to launch your web app
 - [x] Update dependencies
 - [x] Database updates
 
-## PWA
+### PWA
 - [x] Manifest
 - [x] Service worker
 
-## Other
+### Other
 - [x] Documentation
 - [x] Terms of Service and Privacy Policy
 - [x] Support/Helpdesk
