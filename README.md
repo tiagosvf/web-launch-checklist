@@ -1,5 +1,5 @@
 # web-checklist
-Make sure you have everything ready to launch your app
+Make sure you have everything ready to launch your web app
 
 ## Checklist
 
